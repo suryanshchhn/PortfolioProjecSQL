@@ -14,15 +14,15 @@ Our World in Data: This website provides comprehensive COVID-19 data for differe
 
 The project uses SQL queries to perform the following analyses:
 
-Likelihood of Dying: Calculates the likelihood of dying if a person contracts COVID-19 in a specific country.
+--Likelihood of Dying: Calculates the likelihood of dying if a person contracts COVID-19 in a specific country.
 
-Percentage of Population Infected: Shows the percentage of the population that has contracted COVID-19 in a particular country.
+--Percentage of Population Infected: Shows the percentage of the population that has contracted COVID-19 in a particular country.
 
-Highest Infection Rate: Identifies countries with the highest infection rates compared to their population.
+--Highest Infection Rate: Identifies countries with the highest infection rates compared to their population.
 
-Highest Death Count: Lists countries with the highest death counts per population.
+--Highest Death Count: Lists countries with the highest death counts per population.
 
-Population vs. Vaccinations: Compares the total population to the number of vaccinations administered and calculates the percentage of people vaccinated.
+--Population vs. Vaccinations: Compares the total population to the number of vaccinations administered and calculates the percentage of people vaccinated.
 
 ## Creating Views
 
@@ -32,11 +32,11 @@ To facilitate data retrieval and visualization, the project creates a view named
 
 To run the SQL queries and create the view, follow these steps:
 
-Ensure you have access to the "CovidDeaths" and "CovidVaccination" tables in your SQL database.
+--Ensure you have access to the "CovidDeaths" and "CovidVaccination" tables in your SQL database.
 
-Execute the provided SQL queries in your SQL client to perform the data analysis.
+--Execute the provided SQL queries in your SQL client to perform the data analysis.
 
-Once the queries have been executed successfully, the view "PercentPeopleVaccinated1" will be available for later use.
+--Once the queries have been executed successfully, the view "PercentPeopleVaccinated1" will be available for later use.
 
 ## Contributing
 
