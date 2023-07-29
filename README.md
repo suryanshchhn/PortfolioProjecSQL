@@ -44,7 +44,7 @@ Contributions to this project are welcome. If you find any issues or have ideas 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Acknowledgments
 
