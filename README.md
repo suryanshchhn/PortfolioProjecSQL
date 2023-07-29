@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This project aims to analyze COVID-19 data, including cases, deaths, vaccinations, and population statistics from various countries and continents. The analysis is based on data obtained from the reputable source Our World in Data, which provides reliable and up-to-date information on the COVID-19 pandemic.
+This project aims to analyze COVID-19 data, including cases, deaths, vaccinations, and population statistics from various countries and continents. The analysis is based on data obtained from the reputable source [Our World in Data](https://ourworldindata.org/covid-deaths), which provides reliable and up-to-date information on the COVID-19 pandemic.
 
 ## Data Source
 
 The project utilizes data from the following source:
 
-Our World in Data: This website provides comprehensive COVID-19 data for different countries, including information on cases, deaths, testing, vaccinations, and more.
+[Our World in Data](https://ourworldindata.org/covid-deaths): This website provides comprehensive COVID-19 data for different countries, including information on cases, deaths, testing, vaccinations, and more.
 
 ## SQL Queries
 
@@ -48,4 +48,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-We would like to acknowledge Our World in Data for providing valuable and reliable data for understanding the impact of the COVID-19 pandemic.
+We would like to acknowledge [Our World in Data](https://ourworldindata.org/covid-deaths) for providing valuable and reliable data for understanding the impact of the COVID-19 pandemic.
